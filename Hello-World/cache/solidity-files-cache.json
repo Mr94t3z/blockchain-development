@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/mr94t3z/Documents/Blockchain Development/Hello-World/contracts/HelloWorld.sol": {
+      "lastModificationDate": 1652933184066,
+      "contentHash": "5eee19161dd5bbad5ba1d7093a6f516e",
+      "sourceName": "contracts/HelloWorld.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.3"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    }
+  }
+}
