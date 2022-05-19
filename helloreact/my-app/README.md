@@ -1,7 +1,7 @@
 # Add MetaMask connect button to my react app
 ![React_App](https://img.shields.io/badge/Connect%20Metamask-React%20App-yellowgreen)
 
-![Output](output/output.gif)
+![Output](./output/output.gif)
 
 
 ```
