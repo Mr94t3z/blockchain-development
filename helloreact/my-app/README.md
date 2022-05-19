@@ -1,5 +1,5 @@
 # Add MetaMask connect button to my react app
-![React_App](https://img.shields.io/badge/Connect%20Metamask-React%20App-green)
+![React_App](https://img.shields.io/badge/Connect%20Metamask-React%20App-blue)
 
 
 ```
@@ -10,8 +10,8 @@ npm start
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Output
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 <p align="center">
   <img src="/helloreact/my-app/ouput/ouput.gif" alt="animated" />
 </p>
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
