@@ -1,4 +1,4 @@
-# Add Metamask Connect Button
+# Metamask Connect Button
 ![React_App](https://img.shields.io/badge/Connect%20Metamask-Running-blue)
 
 - [ ] Run this `command` to start.
