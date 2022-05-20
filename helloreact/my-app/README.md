@@ -19,12 +19,6 @@ npm start
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
 
 y'all can find my `social media` here:
-
-<p align='center'>
- <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr94t3z&show_icons=true&count_private=true&theme=dark" width="350">
- </a>
-</p>
  
 <p align='center'>
  
