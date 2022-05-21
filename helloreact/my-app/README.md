@@ -39,4 +39,3 @@ y'all can find my `social media` here:
  </a>&nbsp;&nbsp;
   
 </p>
-
