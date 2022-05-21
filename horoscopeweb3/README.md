@@ -1,4 +1,4 @@
-# NFTs Minting
+# NFTs Minting Using React App
 ![React_App](https://img.shields.io/badge/Connect%20Metamask-Running-blue)
 
 - [ ] Run this `command` to start.
