@@ -101,7 +101,7 @@ function App() {
 
               </button>
             ) : (
-              <p>Install Metamask wallet</p>
+              <p class="button">Install Metamask wallet</p>
             )
           }
 

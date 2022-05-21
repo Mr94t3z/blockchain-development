@@ -1,0 +1,14 @@
+{	
+	"name":"Elon Musk & Jokowi",
+	"description":"Elon Musk meeting with President Jokowi.",
+	"image":"https://akcdn.detik.net.id/visual/2022/05/15/joko-widodo-dan-elon-musk-di-pabrik-roket-space-x_169.jpeg?w=650",
+	
+	"attributes":
+	[
+		{
+			"trait_type":"Type 1","value":"CEO Tesla, inc."
+		},
+		{	"trait_type":"Type 2","value":"President"
+		}
+	]
+}
