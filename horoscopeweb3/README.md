@@ -12,7 +12,7 @@ npm start
 ![React_App](https://img.shields.io/badge/Connect%20Metamask-Output-blue)
 
 <p align="center">
-  <img src="/horoscopeweb3/ouput/ouput.gif" alt="animated" />
+  <img src="/ouput/ouput.gif" alt="animated" />
 </p>
 
 # Social Media
