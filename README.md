@@ -2,7 +2,7 @@
 
 [![Blockchain_Developer](https://img.shields.io/badge/Blockhain-Developer-orange)](https://shields.io/#your-badge)
 
-> **just wanna try to help** `someone(s)`.
+> This is my Journey to become a *Blockchain Developer*.
 
 # SolMoon
 
